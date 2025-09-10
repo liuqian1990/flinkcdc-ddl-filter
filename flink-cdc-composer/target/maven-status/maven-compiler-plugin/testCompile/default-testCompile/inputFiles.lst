@@ -1,0 +1,14 @@
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-composer/src/test/java/org/apache/flink/cdc/composer/utils/factory/DataSinkFactory1.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-composer/src/test/java/org/apache/flink/cdc/composer/flink/FlinkPipelineComposerLenientITCase.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-composer/src/test/java/org/apache/flink/cdc/composer/utils/factory/DataSourceFactory1.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-composer/src/test/java/org/apache/flink/cdc/composer/flink/FlinkEnvironmentUtilsTest.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-composer/src/test/java/org/apache/flink/cdc/composer/flink/FlinkPipelineComposerITCase.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-composer/src/test/java/org/apache/flink/cdc/composer/utils/factory/TestOptions.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-composer/src/test/java/org/apache/flink/cdc/composer/utils/factory/DataSourceFactory2.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-composer/src/test/java/org/apache/flink/cdc/composer/flink/translator/DataSinkTranslatorTest.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-composer/src/test/java/org/apache/flink/cdc/composer/flink/FlinkPipelineUdfITCase.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-composer/src/test/java/org/apache/flink/cdc/composer/flink/FlinkPipelineComposerTest.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-composer/src/test/java/org/apache/flink/cdc/composer/flink/translator/DataSourceTranslatorTest.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-composer/src/test/java/org/apache/flink/cdc/composer/utils/factory/DataSinkFactory2.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-composer/src/test/java/org/apache/flink/cdc/composer/flink/FlinkPipelineTransformITCase.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-composer/src/test/java/org/apache/flink/cdc/composer/utils/FactoryDiscoveryUtilsTest.java

@@ -1,0 +1,15 @@
+org/apache/flink/cdc/connectors/starrocks/sink/utils/StarRocksContainer.class
+org/apache/flink/cdc/connectors/starrocks/sink/EventRecordSerializationSchemaTest$1.class
+org/apache/flink/cdc/connectors/starrocks/sink/EventRecordSerializationSchemaTest$MockInitContext.class
+org/apache/flink/cdc/connectors/starrocks/sink/StarRocksMetadataApplierTest.class
+org/apache/flink/cdc/connectors/starrocks/sink/utils/StarRocksSinkTestBase$MockContext.class
+com/starrocks/shade/org/apache/commons/compress/utils/Lists.class
+org/apache/flink/cdc/connectors/starrocks/sink/EventRecordSerializationSchemaTest$2.class
+org/apache/flink/cdc/connectors/starrocks/sink/EventRecordSerializationSchemaTest.class
+org/apache/flink/cdc/connectors/starrocks/sink/StarRocksDataSinkFactoryTest.class
+org/apache/flink/cdc/connectors/starrocks/sink/utils/StarRocksSinkTestBase.class
+org/apache/flink/cdc/connectors/starrocks/sink/EventRecordSerializationSchemaTest$MockInitializationContext.class
+org/apache/flink/cdc/connectors/starrocks/sink/StarRocksMetadataApplierITCase.class
+org/apache/flink/cdc/connectors/starrocks/sink/MockStarRocksCatalog.class
+org/apache/flink/cdc/connectors/starrocks/sink/CdcDataTypeTransformerTest.class
+org/apache/flink/cdc/connectors/starrocks/sink/StarRocksPipelineITCase.class

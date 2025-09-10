@@ -1,0 +1,8 @@
+org/apache/flink/cdc/pipeline/tests/MysqlE2eITCase.class
+org/apache/flink/cdc/pipeline/tests/TransformE2eITCase.class
+org/apache/flink/cdc/pipeline/tests/MySqlToDorisE2eITCase.class
+org/apache/flink/cdc/pipeline/tests/RouteE2eITCase.class
+org/apache/flink/cdc/pipeline/tests/SchemaEvolveE2eITCase.class
+org/apache/flink/cdc/pipeline/tests/UdfE2eITCase.class
+org/apache/flink/cdc/pipeline/tests/SchemaEvolvingTransformE2eITCase.class
+org/apache/flink/cdc/pipeline/tests/utils/PipelineTestEnvironment.class
