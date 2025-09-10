@@ -1,0 +1,11 @@
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-e2e-tests/flink-cdc-source-e2e-tests/src/test/java/org/apache/flink/cdc/connectors/tests/MongoE2eITCase.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-e2e-tests/flink-cdc-source-e2e-tests/src/test/java/org/apache/flink/cdc/connectors/tests/OracleE2eITCase.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-e2e-tests/flink-cdc-source-e2e-tests/src/test/java/org/apache/flink/cdc/connectors/tests/utils/SQLJobSubmission.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-e2e-tests/flink-cdc-source-e2e-tests/src/test/java/org/apache/flink/cdc/connectors/tests/Db2E2eITCase.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-e2e-tests/flink-cdc-source-e2e-tests/src/test/java/org/apache/flink/cdc/connectors/tests/MySqlE2eITCase.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-e2e-tests/flink-cdc-source-e2e-tests/src/test/java/org/apache/flink/cdc/connectors/tests/PostgresE2eITCase.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-e2e-tests/flink-cdc-source-e2e-tests/src/test/java/org/apache/flink/cdc/connectors/tests/SqlServerE2eITCase.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-e2e-tests/flink-cdc-source-e2e-tests/src/test/java/org/apache/flink/cdc/connectors/tests/OceanBaseE2eITCase.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-e2e-tests/flink-cdc-source-e2e-tests/src/test/java/org/apache/flink/cdc/connectors/tests/TiDBE2eITCase.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-e2e-tests/flink-cdc-source-e2e-tests/src/test/java/org/apache/flink/cdc/connectors/tests/utils/FlinkContainerTestEnvironment.java
+/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-e2e-tests/flink-cdc-source-e2e-tests/src/test/java/org/apache/flink/cdc/connectors/tests/VitessE2eITCase.java

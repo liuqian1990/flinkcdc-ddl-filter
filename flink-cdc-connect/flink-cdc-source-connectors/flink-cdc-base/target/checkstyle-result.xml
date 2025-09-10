@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.14">
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/options/JdbcSourceOptions.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/options/SourceOptions.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/options/StartupMode.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/options/StartupOptions.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/relational/handler/SchemaChangeEventHandler.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/relational/connection/JdbcConnectionPoolFactory.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/relational/connection/ConnectionPools.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/relational/connection/JdbcConnectionFactory.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/relational/connection/ConnectionPoolId.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/relational/connection/JdbcConnectionPools.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/relational/JdbcSourceEventDispatcher.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/config/JdbcSourceConfigFactory.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/config/BaseSourceConfig.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/config/SourceConfig.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/config/JdbcSourceConfig.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/reader/IncrementalSourceReaderContext.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/reader/IncrementalSourceReader.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/reader/IncrementalSourceReaderWithCommit.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/reader/IncrementalSourceSplitReader.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/reader/IncrementalSourceRecordEmitter.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/reader/external/IncrementalSourceStreamFetcher.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/reader/external/JdbcSourceFetchTaskContext.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/reader/external/FetchTask.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/reader/external/IncrementalSourceScanFetcher.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/reader/external/Fetcher.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/reader/external/AbstractScanFetchTask.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/IncrementalSource.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/metrics/SourceReaderMetrics.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/split/SchemalessSnapshotSplit.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/split/ChangeEventRecords.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/split/SourceSplitBase.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/split/StreamSplit.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/split/SourceSplitSerializer.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/split/FinishedSnapshotSplitInfo.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/split/StreamSplitState.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/split/SnapshotSplit.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/split/SourceRecords.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/split/SourceSplitState.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/split/SnapshotSplitState.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/wartermark/WatermarkKind.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/wartermark/WatermarkEvent.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/offset/Offset.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/offset/OffsetDeserializerSerializer.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/offset/OffsetFactory.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/events/StreamSplitAssignedEvent.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/events/StreamSplitUpdateAckEvent.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/events/LatestFinishedSplitsNumberEvent.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/events/FinishedSnapshotSplitsReportEvent.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/events/StreamSplitMetaRequestEvent.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/events/StreamSplitMetaEvent.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/events/FinishedSnapshotSplitsAckEvent.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/events/StreamSplitUpdateRequestEvent.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/events/LatestFinishedSplitsNumberRequestEvent.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/meta/events/FinishedSnapshotSplitsRequestEvent.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/utils/JdbcChunkUtils.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/utils/hooks/SnapshotPhaseHook.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/utils/hooks/SnapshotPhaseHooks.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/jdbc/JdbcIncrementalSource.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/EmbeddedFlinkDatabaseHistory.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/assigner/StreamSplitAssigner.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/assigner/splitter/ChunkSplitter.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/assigner/splitter/JdbcSourceChunkSplitter.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/assigner/splitter/ChunkRange.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/assigner/state/StreamPendingSplitsState.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/assigner/state/PendingSplitsStateSerializer.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/assigner/state/PendingSplitsState.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/assigner/state/HybridPendingSplitsState.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/assigner/state/SnapshotPendingSplitsState.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/assigner/SnapshotSplitAssigner.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/assigner/HybridSplitAssigner.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/assigner/AssignerStatus.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/assigner/SplitAssigner.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/source/enumerator/IncrementalSourceEnumerator.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/utils/SerializerUtils.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/utils/EnvironmentUtils.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/utils/ObjectUtils.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/utils/OptionUtils.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/utils/VersionComparable.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/utils/SourceRecordUtils.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/dialect/DataSourceDialect.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/main/java/org/apache/flink/cdc/connectors/base/dialect/JdbcDataSourceDialect.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/handler/MySqlSchemaChangeEventHandler.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/MysqlPooledDataSourceFactory.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/config/ServerIdRange.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/config/MySqlSourceConfig.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/config/MySqlSourceConfigFactory.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/MySqlChunkSplitter.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/utils/TableDiscoveryUtils.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/utils/MySqlConnectionUtils.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/utils/MySqlTypeUtils.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/utils/MySqlSchema.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/utils/MySqlUtils.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/MySqlDialect.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/offset/BinlogOffsetFactory.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/offset/BinlogOffset.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/fetch/MySqlScanFetchTask.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/fetch/MySqlSourceFetchTaskContext.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/fetch/MySqlStreamFetchTask.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/EmbeddedFlinkDatabaseHistory.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/experimental/MySqlSourceBuilder.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/source/meta/split/SourceSplitSerializerTest.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/source/meta/split/version4/StreamSplitVersion4.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/source/meta/split/version4/LegacySourceSplitSerializierVersion4.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/source/assigner/state/PendingSplitsStateSerializerTest.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/source/assigner/state/version5/PendingSplitsStateSerializerVersion5.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/source/assigner/state/version5/HybridPendingSplitsStateVersion5.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/source/assigner/state/version5/SnapshotPendingSplitsStateVersion5.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/MySqlChangeEventSourceExampleTest.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/testutils/MySqlVersion.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/testutils/UniqueDatabase.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/testutils/MySqlContainer.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/java/org/apache/flink/cdc/connectors/base/JdbcConnectionPoolTest.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-cdc-base/src/test/resources/log4j2-test.properties">
+</file>
+</checkstyle>

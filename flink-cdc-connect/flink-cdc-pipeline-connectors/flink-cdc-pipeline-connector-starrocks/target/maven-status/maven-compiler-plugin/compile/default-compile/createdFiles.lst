@@ -1,0 +1,12 @@
+org/apache/flink/cdc/connectors/starrocks/sink/StarRocksDataSink.class
+org/apache/flink/cdc/connectors/starrocks/sink/EventRecordSerializationSchema$1.class
+org/apache/flink/cdc/connectors/starrocks/sink/SchemaChangeConfig.class
+org/apache/flink/cdc/connectors/starrocks/sink/StarRocksUtils$CdcDataTypeTransformer.class
+org/apache/flink/cdc/connectors/starrocks/sink/StarRocksUtils$1.class
+org/apache/flink/cdc/connectors/starrocks/sink/EventRecordSerializationSchema$TableInfo.class
+org/apache/flink/cdc/connectors/starrocks/sink/TableCreateConfig.class
+org/apache/flink/cdc/connectors/starrocks/sink/StarRocksDataSinkFactory.class
+org/apache/flink/cdc/connectors/starrocks/sink/StarRocksMetadataApplier.class
+org/apache/flink/cdc/connectors/starrocks/sink/EventRecordSerializationSchema.class
+org/apache/flink/cdc/connectors/starrocks/sink/StarRocksDataSinkOptions.class
+org/apache/flink/cdc/connectors/starrocks/sink/StarRocksUtils.class

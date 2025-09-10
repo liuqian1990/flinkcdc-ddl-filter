@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.14">
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-e2e-tests/flink-cdc-e2e-utils/src/test/java/org/apache/flink/cdc/common/test/utils/TestUtils.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-e2e-tests/flink-cdc-e2e-utils/src/test/java/org/apache/flink/cdc/common/test/utils/ParameterProperty.java">
+</file>
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-e2e-tests/flink-cdc-e2e-utils/src/test/java/org/apache/flink/cdc/common/test/utils/JdbcProxy.java">
+</file>
+</checkstyle>

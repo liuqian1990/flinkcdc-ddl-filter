@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.14">
+<file name="/Users/liuqian/Downloads/flink-cdc-3.2.0/flink-cdc-connect/flink-cdc-source-connectors/flink-sql-connector-mysql-cdc/src/main/java/org/apache/flink/cdc/connectors/mysql/DummyDocs.java">
+</file>
+</checkstyle>
